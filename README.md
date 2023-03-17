@@ -1,4 +1,4 @@
-# Black-box-Modelling
+# Black-box System Modelling
 
 This Matlab code is an implementation of system identification for an LTI (Linear Time-Invariant) model using a PRBS (Pseudo-Random Binary Sequence) input signal.
 
