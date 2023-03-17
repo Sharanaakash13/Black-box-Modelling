@@ -6,10 +6,10 @@ This Matlab live script is an implementation of system identification for an LTI
 * The system output is obtained by simulating a simple mechanical system using the input signal, and the resulting data is split into estimation and validation sets for model training and evaluation.
 
 * This script uses the following model structure and residual are analysed for every model: 
-1. ARX model
-2. Transfer function
-3. Process model 
-4. State space
-5. 
+  1. ARX model
+  2. Transfer function
+  3. Process model 
+  4. State space
+
 *  The LTI model is then identified using the estimation data and validated using the validation data.
 *  The code includes detailed comments for each step of the process.
